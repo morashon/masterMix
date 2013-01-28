@@ -19,3 +19,6 @@
 [submodule "meta"]
 	path = meta
 	url = git@gitmor:morashon/meta.git
+[submodule "morashon"]
+	path = morashon
+	url = git@gitmor:morashon/morashon.git
