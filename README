@@ -1,0 +1,20 @@
+Unlike the ideal possible with pure software development, this process is far from completely automated.
+
+Songs are developed in Rosegarden, using tools found in morashon/py.  All the songs are presently in separate folders in the morashon repo.
+
+Song mixes are exported from Rosegarden using jack and timemachine, typically called ruf_blah_commit.wav
+
+Dialogue is developed in scene directories in morashon/dialogue -- see the ./mak scripts.
+
+Songs and dialogue are imported into the ardour projects in each segment repo (seg1 - seg5)
+
+Segment mixes are exported in ardour, end up in segX/export/
+
+Dialogue for the textMovie (py scripts in morashon/textMovie) are in segX.txt files; see ./mak in each segment, produces segX.avi
+
+morashon/mix/meta/mak combines the 5 segX.avi's into morashon.avi
+
+
+It sucks yet works (to quote an old friend, "SUCKS; GREAT!")
+
+

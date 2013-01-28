@@ -1,0 +1,21 @@
+[submodule "seg1"]
+	path = seg1
+	url = git@gitmor:morashon/seg1.git
+[submodule "seg2"]
+	path = seg2
+	url = git@gitmor:morashon/seg2.git
+[submodule "seg3"]
+	path = seg3
+	url = git@gitmor:morashon/seg3.git
+[submodule "seg4"]
+	path = seg4
+	url = git@gitmor:morashon/seg4.git
+[submodule "seg5"]
+	path = seg5
+	url = git@gitmor:morashon/seg5.git
+[submodule "textMovie"]
+	path = textMovie
+	url = git@gitmor:morashon/textMovie.git
+[submodule "meta"]
+	path = meta
+	url = git@gitmor:morashon/meta.git
