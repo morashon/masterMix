@@ -1,0 +1,18 @@
+#!/bin/bash
+cd front
+git push origin master
+cd ../seg1
+git push origin master
+cd ../seg2
+git push origin master
+cd ../seg3
+git push origin master
+cd ../seg4
+git push origin master
+cd ../seg5
+git push origin master
+cd ../textMovie
+git push origin master
+cd ..
+git commit -a -m "-"
+git push origin master
