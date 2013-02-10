@@ -17,6 +17,9 @@ git push origin master
 cd ../seg5
 git commit -a -m "gitup"
 git push origin master
+cd ../meta
+git commit -a -m "gitup"
+git push origin master
 cd ../textMovie
 git commit -a -m "gitup"
 git push origin master
