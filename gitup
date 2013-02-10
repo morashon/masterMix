@@ -1,18 +1,25 @@
 #!/bin/bash
 cd front
+git commit -a -m "gitup"
 git push origin master
 cd ../seg1
+git commit -a -m "gitup"
 git push origin master
 cd ../seg2
+git commit -a -m "gitup"
 git push origin master
 cd ../seg3
+git commit -a -m "gitup"
 git push origin master
 cd ../seg4
+git commit -a -m "gitup"
 git push origin master
 cd ../seg5
+git commit -a -m "gitup"
 git push origin master
 cd ../textMovie
+git commit -a -m "gitup"
 git push origin master
 cd ..
-git commit -a -m "-"
+git commit -a -m "gitup"
 git push origin master
