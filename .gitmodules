@@ -24,4 +24,4 @@
 	url = git@gitmor:morashon/morashon.git
 [submodule "front"]
 	path = front
-	url = git@gitmor:morashon/front.git
+	url = git@gitmor:morashon/front
