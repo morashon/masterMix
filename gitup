@@ -23,6 +23,9 @@ git push origin master
 cd ../textMovie
 git commit -a -m "gitup"
 git push origin master
+cd ../morashon
+git commit -a -m "gitup"
+git push origin master
 cd ..
 git commit -a -m "gitup"
 git push origin master

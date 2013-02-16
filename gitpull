@@ -23,6 +23,9 @@ git pull origin master
 cd ../textMovie
 git checkout master
 git pull origin master
+cd ../morashon
+git checkout master
+git pull origin master
 cd ..
 git checkout master
 git pull origin master
