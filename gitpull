@@ -1,0 +1,28 @@
+#!/bin/bash
+cd front
+git checkout master
+git pull origin master
+cd ../seg1
+git checkout master
+git pull origin master
+cd ../seg2
+git checkout master
+git pull origin master
+cd ../seg3
+git checkout master
+git pull origin master
+cd ../seg4
+git checkout master
+git pull origin master
+cd ../seg5
+git checkout master
+git pull origin master
+cd ../meta
+git checkout master
+git pull origin master
+cd ../textMovie
+git checkout master
+git pull origin master
+cd ..
+git checkout master
+git pull origin master
