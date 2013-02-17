@@ -1,0 +1,11 @@
+#!/bin/bash
+cd seg1
+python ../textMovie/checkArdour.py
+cd ../seg2
+python ../textMovie/checkArdour.py
+cd ../seg3
+python ../textMovie/checkArdour.py
+cd ../seg4
+python ../textMovie/checkArdour.py
+cd ../seg5
+python ../textMovie/checkArdour.py
