@@ -1,7 +1,7 @@
 #!/bin/bash
-touch front/front.avi
-touch seg1/seg1.avi
-touch seg2/seg2.avi
-touch seg3/seg3.avi
-touch seg4/seg4.avi
-touch seg5/seg5.avi
+rm front/front.avi
+rm seg1/seg1.avi
+rm seg2/seg2.avi
+rm seg3/seg3.avi
+rm seg4/seg4.avi
+rm seg5/seg5.avi
